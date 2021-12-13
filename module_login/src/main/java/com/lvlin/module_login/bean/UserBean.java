@@ -158,4 +158,20 @@ public class UserBean implements Parcelable {
         dest.writeString(username);
         dest.writeString(coinCount);
     }
+
+    @Override
+    public String toString() {
+        return "UserBean{" +
+                "email='" + email + '\'' +
+                ", icon='" + icon + '\'' +
+                ", id='" + id + '\'' +
+                ", password='" + password + '\'' +
+                ", token='" + token + '\'' +
+                ", type='" + type + '\'' +
+                ", username='" + username + '\'' +
+                ", chapterTops=" + chapterTops +
+                ", collectIds=" + collectIds +
+                ", coinCount='" + coinCount + '\'' +
+                '}';
+    }
 }

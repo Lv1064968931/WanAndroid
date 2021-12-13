@@ -2,4 +2,5 @@ rootProject.name = "WanAndroid"
 include ':app'
 include ':module_login'
 include ':lib_base'
+include ':lib_network'
 include ':lib_common'
