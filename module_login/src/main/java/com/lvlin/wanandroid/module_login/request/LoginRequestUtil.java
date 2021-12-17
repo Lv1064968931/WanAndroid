@@ -1,7 +1,7 @@
-package com.lvlin.module_login.request;
+package com.lvlin.wanandroid.module_login.request;
 
-import com.lvlin.lib_network.constant.Constant;
-import com.lvlin.lib_network.util.RetrofitCreateUtil;
+import com.lvlin.wanandroid.lib_network.constant.Constant;
+import com.lvlin.wanandroid.lib_network.util.RetrofitCreateUtil;
 
 public class LoginRequestUtil {
 

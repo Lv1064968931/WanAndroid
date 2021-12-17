@@ -9,7 +9,7 @@ android {
     buildToolsVersion config.android.buildToolsVersion
 
     defaultConfig {
-        //applicationId "com.lvlin.lib_base"
+        //applicationId "com.lvlin.wanandroid.lib_base"
         minSdkVersion config.android.minSdkVersion
         targetSdkVersion config.android.targetSdkVersion
         versionCode 1

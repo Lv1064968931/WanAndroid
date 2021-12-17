@@ -13,7 +13,7 @@ android {
 
     defaultConfig {
         if (!isNeedLoginModule.toBoolean()) {
-            applicationId "com.lvlin.module_login"
+            applicationId " com.lvlin.wanandroid.module_login"
         }
         minSdkVersion config.android.minSdkVersion
         targetSdkVersion config.android.targetSdkVersion

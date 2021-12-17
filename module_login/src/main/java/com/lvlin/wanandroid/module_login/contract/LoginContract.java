@@ -1,6 +1,6 @@
-package com.lvlin.module_login.contract;
+package com.lvlin.wanandroid.module_login.contract;
 
-import com.lvlin.module_login.bean.UserBean;
+import com.lvlin.wanandroid.module_login.bean.UserBean;
 
 public class LoginContract {
 

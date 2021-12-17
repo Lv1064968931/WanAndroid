@@ -1,4 +1,4 @@
-package com.lvlin.lib_network.bean;
+package com.lvlin.wanandroid.lib_network.bean;
 
 public class ApiResponse<T> {
 

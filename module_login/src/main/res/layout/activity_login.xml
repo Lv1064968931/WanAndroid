@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    tools:context=".view.LoginActivity">
+    tools:context="com.lvlin.wanandroid.module_login.view.LoginActivity">
 
 
     <EditText

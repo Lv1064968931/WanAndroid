@@ -1,4 +1,4 @@
-package com.lvlin.module_login.model;
+package com.lvlin.wanandroid.module_login.model;
 
 import android.annotation.SuppressLint;
 import android.os.Handler;
@@ -6,10 +6,10 @@ import android.os.Looper;
 
 import androidx.lifecycle.LifecycleObserver;
 
-import com.lvlin.lib_network.bean.ApiResponse;
-import com.lvlin.module_login.bean.UserBean;
-import com.lvlin.module_login.contract.LoginContract;
-import com.lvlin.module_login.request.LoginRequestUtil;
+import com.lvlin.wanandroid.lib_network.bean.ApiResponse;
+import com.lvlin.wanandroid.module_login.bean.UserBean;
+import com.lvlin.wanandroid.module_login.contract.LoginContract;
+import com.lvlin.wanandroid.module_login.request.LoginRequestUtil;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;

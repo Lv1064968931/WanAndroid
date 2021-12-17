@@ -1,9 +1,9 @@
-package com.lvlin.module_login.presenter;
+package com.lvlin.wanandroid.module_login.presenter;
 
-import com.lvlin.module_login.bean.UserBean;
-import com.lvlin.module_login.contract.LoginContract;
-import com.lvlin.module_login.model.LoginModel;
-import com.lvlin.module_login.view.LoginActivity;
+import com.lvlin.wanandroid.module_login.bean.UserBean;
+import com.lvlin.wanandroid.module_login.contract.LoginContract;
+import com.lvlin.wanandroid.module_login.model.LoginModel;
+import com.lvlin.wanandroid.module_login.view.LoginActivity;
 
 public class LoginPresenter extends BasePresenter<LoginActivity, LoginModel> implements LoginContract.ILoginPresenter {
     @Override

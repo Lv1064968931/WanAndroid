@@ -1,7 +1,7 @@
-package com.lvlin.module_login.presenter;
+package com.lvlin.wanandroid.module_login.presenter;
 
-import com.lvlin.module_login.model.IModel;
-import com.lvlin.module_login.view.IView;
+import com.lvlin.wanandroid.module_login.model.IModel;
+import com.lvlin.wanandroid.module_login.view.IView;
 
 public abstract class BasePresenter<V extends IView, M extends IModel> implements IPresenter {
 

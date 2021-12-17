@@ -1,4 +1,4 @@
-package com.lvlin.module_login.bean;
+package com.lvlin.wanandroid.module_login.bean;
 
 import android.os.Parcel;
 import android.os.Parcelable;

@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true">
-        <activity android:name=".view.LoginActivity">
+        <activity android:name="com.lvlin.wanandroid.module_login.view.LoginActivity">
 
         </activity>
     </application>

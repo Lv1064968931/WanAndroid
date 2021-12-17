@@ -1,12 +1,9 @@
-package com.lvlin.module_login.request;
+package com.lvlin.wanandroid.module_login.request;
 
-import androidx.lifecycle.LiveData;
-
-import com.lvlin.lib_network.bean.ApiResponse;
-import com.lvlin.module_login.bean.UserBean;
+import com.lvlin.wanandroid.lib_network.bean.ApiResponse;
+import com.lvlin.wanandroid.module_login.bean.UserBean;
 
 import io.reactivex.Flowable;
-import io.reactivex.Observable;
 import retrofit2.http.Field;
 import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;

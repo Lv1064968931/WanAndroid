@@ -1,4 +1,4 @@
-package com.lvlin.lib_base;
+package com.lvlin.wanandroid.lib_base;
 
 public class RouterMap {
 

@@ -1,8 +1,8 @@
-package com.lvlin.lib_network.util;
+package com.lvlin.wanandroid.lib_network.util;
 
 import androidx.lifecycle.LiveData;
 
-import com.lvlin.lib_network.bean.ApiResponse;
+import com.lvlin.wanandroid.lib_network.bean.ApiResponse;
 
 import java.lang.reflect.Type;
 import java.util.concurrent.atomic.AtomicBoolean;

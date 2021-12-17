@@ -1,4 +1,4 @@
-package com.lvlin.lib_network.util;
+package com.lvlin.wanandroid.lib_network.util;
 
 import java.util.concurrent.TimeUnit;
 

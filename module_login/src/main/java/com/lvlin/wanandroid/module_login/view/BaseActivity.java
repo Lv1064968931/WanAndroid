@@ -1,12 +1,11 @@
-package com.lvlin.module_login.view;
+package com.lvlin.wanandroid.module_login.view;
 
 import android.os.Bundle;
 import android.view.View;
-import android.view.Window;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.lvlin.module_login.presenter.IPresenter;
+import com.lvlin.wanandroid.module_login.presenter.IPresenter;
 
 public abstract class BaseActivity<P extends IPresenter> extends AppCompatActivity implements IView {
     protected P mPresenter;
